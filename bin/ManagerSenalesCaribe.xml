@@ -1,0 +1,791 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ManagerSenalesCaribe
+</name>
+</assembly>
+<members>
+<member name="F:ManagerSenalesCaribe.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:ManagerSenalesCaribe.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ManagerSenalesCaribe.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ManagerSenalesCaribe.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:ManagerSenalesCaribe.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.panelLogin">
+	<summary>
+panelLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.cmdCurrentUser">
+	<summary>
+cmdCurrentUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.cmdLogout">
+	<summary>
+cmdLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.txtUserName">
+	<summary>
+txtUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.valIDUsuario">
+	<summary>
+valIDUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.txtUserPass">
+	<summary>
+txtUserPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.valContrasena">
+	<summary>
+valContrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.txtVerificacion">
+	<summary>
+txtVerificacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.valVerificaContrasena">
+	<summary>
+valVerificaContrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.comValVerificacion">
+	<summary>
+comValVerificacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.txtFullName">
+	<summary>
+txtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.valDescripcion">
+	<summary>
+valDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.txtUserEmail">
+	<summary>
+txtUserEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.valEmail">
+	<summary>
+valEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.REVMail">
+	<summary>
+REVMail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.chkIsLocked">
+	<summary>
+chkIsLocked control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.chkIsAdmin">
+	<summary>
+chkIsAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.chkIsDeleted">
+	<summary>
+chkIsDeleted control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.chkCambiar">
+	<summary>
+chkCambiar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.btnGrabar">
+	<summary>
+btnGrabar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuario_Nuevo.btnCancelar">
+	<summary>
+btnCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.lblMsg">
+	<summary>
+lblMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.MultiView1">
+	<summary>
+MultiView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.View1">
+	<summary>
+View1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.View2">
+	<summary>
+View2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtSearchBox">
+	<summary>
+txtSearchBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.lstCategoria">
+	<summary>
+lstCategoria control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdSearch">
+	<summary>
+cmdSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdLimpiar">
+	<summary>
+cmdLimpiar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdAddNew">
+	<summary>
+cmdAddNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.gvContenido">
+	<summary>
+gvContenido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.View3">
+	<summary>
+View3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.lblID">
+	<summary>
+lblID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtEditPublishDate">
+	<summary>
+txtEditPublishDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.PopCalPublishDate">
+	<summary>
+PopCalPublishDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtEditExpireDate">
+	<summary>
+txtEditExpireDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.PopCalExpiredDate">
+	<summary>
+PopCalExpiredDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtEditTitulo">
+	<summary>
+txtEditTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtEditOrderBy">
+	<summary>
+txtEditOrderBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cbIsPublished">
+	<summary>
+cbIsPublished control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdSave">
+	<summary>
+cmdSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdGoBack">
+	<summary>
+cmdGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.freeEditorContenido">
+	<summary>
+freeEditorContenido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cblEditCategories">
+	<summary>
+cblEditCategories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.FileUpload1">
+	<summary>
+FileUpload1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.cmdUploadImage">
+	<summary>
+cmdUploadImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.txtEditPhotoComent">
+	<summary>
+txtEditPhotoComent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Contenido.lvImages">
+	<summary>
+lvImages control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:ManagerSenalesCaribe.Contenido.PhotoIsFormValid">
+	<summary>
+ Indica si los campos requeridos para registrar una foto son correctos
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ManagerSenalesCaribe.Contenido.PhotoDelete(System.Int32)">
+	<summary>
+	</summary>
+	<param name="iPhoto"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ManagerSenalesCaribe.ImagenesUtil.SetHeight">
+	<summary>
+ Cambia el alto de la imagen en base a maxsize, mantiene el aspect-ratio 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ManagerSenalesCaribe.ImagenesUtil.SetWidth">
+	<summary>
+ Cambia el ancho de la imagen en base a maxsize, mantiene el aspect-ratio 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:ManagerSenalesCaribe.ImagenesUtil.GetSizeFromImages(System.Byte[],System.Int32,System.Int32)">
+	<summary>
+ Obtiene el tamano actual de la imagen en base al buffer, cambia el tamano segun el parametro de ancho o alto especificado
+ </summary>
+	<param name="argBuffer">buffer con la imagen</param>
+	<param name="maxWidth">si es &gt;0 se establece como el ancho maximo</param>
+	<param name="maxHeight">si es &gt;0 se establece como el alto maximo</param>
+	<remarks></remarks>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:ManagerSenalesCaribe.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:ManagerSenalesCaribe.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.tvCat">
+	<summary>
+tvCat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lblID">
+	<summary>
+lblID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lblEditCatCategory">
+	<summary>
+lblEditCatCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.ddlParent">
+	<summary>
+ddlParent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.ddlEditTipoCategory">
+	<summary>
+ddlEditTipoCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.txtEditCatName">
+	<summary>
+txtEditCatName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.txtEditCatDescripcion">
+	<summary>
+txtEditCatDescripcion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.txtEditCatURL">
+	<summary>
+txtEditCatURL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.txtEditCatOrderBy">
+	<summary>
+txtEditCatOrderBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.cbEditIsMenu">
+	<summary>
+cbEditIsMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lnkGuardar">
+	<summary>
+lnkGuardar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lnkCmdGoBack">
+	<summary>
+lnkCmdGoBack control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lnkCmdAddChild">
+	<summary>
+lnkCmdAddChild control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.lnkCmdDelete">
+	<summary>
+lnkCmdDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.FileUpload1">
+	<summary>
+FileUpload1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.cmdDeleteImage">
+	<summary>
+cmdDeleteImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Categories.imgDefault">
+	<summary>
+imgDefault control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe._Default.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.txtUsuario">
+	<summary>
+txtUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.valUsuario">
+	<summary>
+valUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.txtContrasena">
+	<summary>
+txtContrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.valContrasena">
+	<summary>
+valContrasena control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Login.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.txtFiltro">
+	<summary>
+txtFiltro control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.btnBuscar">
+	<summary>
+btnBuscar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.btnNuevo">
+	<summary>
+btnNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.btnCancelar">
+	<summary>
+btnCancelar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Usuarios_List.gv">
+	<summary>
+gv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ManagerSenalesCaribe.Imagenes.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
